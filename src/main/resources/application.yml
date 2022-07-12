@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: localhost
+queues:
+  server2ClientQueue: server2ClientQueue
+  client2ServerQueue: client2ServerQueue
